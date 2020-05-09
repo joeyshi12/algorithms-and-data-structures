@@ -4,7 +4,7 @@ CPSC 221: Algorithms and Data Structures (2019 WT2) \
 
 # topics-covered
 - Sorting Algorithms
-- Linked Lists
+- Linked Lists and Arrays
 - Stacks and Queues
 - DFS and DFS
 - Asymptotic Complexity Analysis
