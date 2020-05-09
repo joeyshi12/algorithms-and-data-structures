@@ -1,0 +1,3 @@
+C:/Users/j/Desktop/School/cpsc221/pa1/cmake-build-debug/CMakeFiles/pa1.dir
+C:/Users/j/Desktop/School/cpsc221/pa1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/j/Desktop/School/cpsc221/pa1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
