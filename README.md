@@ -1,6 +1,7 @@
 # algorithms-and-data-structures
 University of British Columbia \
 CPSC 221: Algorithms and Data Structures (2019 WT2) \
+Content released under instructor's consent 
 
 # topics-covered
 - Sorting Algorithms
@@ -13,6 +14,3 @@ CPSC 221: Algorithms and Data Structures (2019 WT2) \
 - Priority Queues, Heaps
 - Disjoint Sets
 - Graphs and Shortest Path Algorithms
-
-Content released under instructor's consent 
-
